@@ -135,15 +135,25 @@ Je n'exclue pas d'actualiser ces enregistrements de dénonciation des diffamatio
 
 - politique_justice__diffamations_contre_moi_01
 
-un peu de politique et de géopolitique.
+politique & géopolitique
+
+Je n'ai pas besoin d'un champion politique, ni d'un porte-voix, à aucun niveau politique.
+
+.RN (machine à perdre qui entretien le système et qui empêche une voix raisonnable pour la France d'émerger)
+.LFI
+.Macronisme et ses dérivés.
+
+.Russie
+.Ukraine
+.Israël
+.Palestine
+
+.Pays du golfe (EAU, Qatar, Arabie Saoudite, Israël, Palestine)
+.Pays du Maghreb
 
 - politique_justice__diffamations_contre_moi_02
 
 Non je n'utilise pas l'IA pour...
-
-- politique_justice__diffamations_contre_moi_03
-
-géopolitique...
 
 - politique_justice__mes_positions_politiques_00
 
@@ -156,11 +166,11 @@ quelques idées non détaillées...
 
 - politique_justice__mes_positions_politiques_02
 
-en accord avec
+En accord avec...
 
 - politique_justice__mes_positions_politiques_03
 
-IA
+IA...
 
 - politique_justice__mes_positions_politiques_04
 
