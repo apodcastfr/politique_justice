@@ -160,9 +160,16 @@ Non je n'utilise pas l'IA pour...
 intro
 Je n'exclue pas d'actualiser ces enregistrements sur mes opinions politiques, si besoin.
 
-- politique_justice__mes_positions_politiques_01
+- politique_justice__mes_positions_politiques_01a
 
 quelques idées non détaillées...
+
+- politique_justice__mes_positions_politiques_01b
+
+jugement majoritaire
+vote par approbation
+
+https://www.youtube.com/watch?v=zmCl5i_sEiM : " Pourquoi notre système de vote est nul (et le moyen le plus simple de l'améliorer) "
 
 - politique_justice__mes_positions_politiques_02
 
@@ -198,3 +205,28 @@ Est-ce que mes avis, présentés comme des conseils, ont été sources d'actions
     et les personnes ayant réalisé ses actions et dit ses paroles ont le mérite de les avoir faites.
   Dans le cas où ces conseils ont conduit à des actions et paroles malheureuses pour l'intérêt général, dommage, 
     et les personnes ayant réalisé ses actions et dit ses paroles ont la responsabilité des conséquences de leurs actes.
+
+- politique_justice__je_suis_01a
+
+parcours scolaire
+
+Je n'ai pas redoublé à part un semestre en école d'ingénieur.
+
+- politique_justice__je_suis_02a
+
+parcours pro
+
+.workshop à Londres
+.université privée aux Etats-Unis
+
+- politique_justice__projets_01a
+
+https://github.com/arapelle/arba-cppx
+https://codeberg.org/amberval/arba-cppx
+
+présenter arba, cmtk, cmaketk, cmakecc.
+  dont un algorithme de chiffrement symétrique appelé adro64 (et anciennement symcrypt).
+
+.temgen
+.taskelm
+(.pipeline app)
