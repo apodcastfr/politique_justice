@@ -219,6 +219,11 @@ parcours pro
 .workshop à Londres
 .université privée aux Etats-Unis
 
+- politique_justice__projets_00a
+
+Des personnes ont usurpé mes idées et qu'ils ont été des dirigeants/managers disant 
+  aux gens "réaliser mes idées", (sans me créditer comme l'auteur de ces idées).
+
 - politique_justice__projets_01a
 
 https://github.com/arapelle/arba-cppx
@@ -264,3 +269,13 @@ Liste de recettes de cuisine.
 - politique_justice__projets_05a
 
 Idées d'architecture et aménagements de territoire (éco-compatibles).
+
+- politique_justice__manipulation_01a
+
+La manipulation sur l'embauche indirecte 
+  (dénoncer le fait qu'on m'a poussé à la démission 1 ou 2 fois) ? hum
+La manipulation(s) pour me mettre à genou financièrement ?)
+
+- politique_justice__manipulation_02a
+
+La constante variation sur les enfants ? hum
