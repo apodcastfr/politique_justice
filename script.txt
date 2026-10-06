@@ -270,6 +270,10 @@ Liste de recettes de cuisine.
 
 Idées d'architecture et aménagements de territoire (éco-compatibles).
 
+- politique_justice__projets_06a
+
+Musées & co.
+
 - politique_justice__manipulation_01a
 
 La manipulation sur l'embauche indirecte 
