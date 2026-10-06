@@ -252,3 +252,11 @@ Zelda BOTW & TOTK
 - politique_justice__projets_03a
 
 Liste des jeux de société.
+
+- politique_justice__projets_03b
+
+Labeled chess.
+
+- politique_justice__projets_04a
+
+Liste de recettes de cuisine.
