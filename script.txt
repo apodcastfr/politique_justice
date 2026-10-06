@@ -230,3 +230,21 @@ présenter arba, cmtk, cmaketk, cmakecc.
 .temgen
 .taskelm
 (.pipeline app)
+
+- politique_justice__projets_02a
+
+Les idées et projets de jeux video.
+
+trpg
+golden sun like
+castlevania requiem of darkness
+strategy
+
+Bloodstained
+(Castlevania belmont's curse)
+AoE II DE
+AoM Retold
+BD
+Metroid
+Zelda BOTW & TOTK
+...
