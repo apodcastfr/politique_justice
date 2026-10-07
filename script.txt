@@ -155,6 +155,13 @@ Je n'ai pas besoin d'un champion politique, ni d'un porte-voix, à aucun niveau 
 
 Non je n'utilise pas l'IA pour...
 
+- politique_justice__diffamations_contre_moi_03
+
+communication biaisée pour me faire passer pour au choix : 
+.un mec qui n'a rien à dire
+.un mec qui dit des betises
+.un mec des laisse dire des betises.
+
 - politique_justice__mes_positions_politiques_00
 
 intro
