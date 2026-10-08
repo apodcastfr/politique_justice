@@ -162,6 +162,10 @@ communication biaisée pour me faire passer pour au choix :
 .un mec qui dit des betises
 .un mec des laisse dire des betises.
 
+- politique_justice__diffamations_contre_moi_04
+
+On a fait croire que j'étais mort.
+
 - politique_justice__mes_positions_politiques_00
 
 intro
