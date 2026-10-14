@@ -318,6 +318,10 @@ pousser grandement pour que je retourne chez un client pour une mission qui ne c
 
 Diffamation sur la "demoiselle" que je cherchais à revoir.
 
+- politique_justice__manipulation_07a
+
+Evènements pour gagner la confiance, manipuler et abuser d'une demoiselle ou d'une autre.
+
 - politique_justice___violences_01a
 
 justice pour les mineurs, les enfants.
