@@ -351,6 +351,10 @@ tentatives de viols et sauvetage par le mirmim.
 
 violences...
 
+- politique_justice__non_a_01b
+
+violences ou haine sous forme de discours, de slogan (carton).
+
 - politique_justice__non_a_02a
 
 culte...
