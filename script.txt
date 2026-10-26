@@ -379,3 +379,12 @@ culte...
 - politique_justice__non_a_02b
 
 non pas de soutien à une religion abrahamique particulière
+
+- politique_justice__sabotages_01a
+
+politiques qui prennent de mauvaises décisions au niveau national et/ou international.
+
+- politique_justice__sabotages_02a
+
+Dégradations dans le pays pour mettre la pression, en affaiblissant du coup la France.
+  ex: incendies...
