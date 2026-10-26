@@ -318,6 +318,18 @@ pousser grandement pour que je retourne chez un client pour une mission qui ne c
 
 Diffamation sur la "demoiselle" que je cherchais à revoir.
 
+- politique_justice__manipulation_06b
+
+Faire croire que la "demoiselle" est avec un autre ou pas, qu'elle est méchante ou pas...
+  -> angoisses nocturnes, sommeil court...
+
+Faire croire que j'étais avec un(e) autre, avec la complicité de certains proches.
+
+- politique_justice__manipulation_06c
+
+Au moins une femme, en contact avec le destin, a basculé du côté des adversaires.
+  Au moins l'une d'elle a cherché à faire en sorte que la "demoiselle" et/ou d'autres soient séduites par certains de ses proches/connaissances.
+
 - politique_justice__manipulation_07a
 
 Evènements pour gagner la confiance, manipuler et abuser d'une demoiselle ou d'une autre.
@@ -338,6 +350,11 @@ Evènement de réunion mensonger. Coup de théâtre du destin et Révélations.
 
 Evènement de réunion mensonger. 
   Bataille
+
+- politique_justice__manipulation_10a
+
+[faux] avocat(e)(s) ont été des traitres et n'ont pas oeuvré dans mon intérêt.
+  Pour différentes raisons, ils ont préféré faire le jeu de mes adversaires.
 
 - politique_justice___violences_01a
 
